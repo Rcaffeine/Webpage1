@@ -1,7 +1,73 @@
-# Webpage1
-Test, index
-Yep, this is just  test.
 
-Blank line above.
 
-R.
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  
+
+
+
+
+<h1>Ronan Duffaud - Photo in London
+</h1>
+The site keeps going.
+
+
+<br><br>
+
+
+<details closed>
+  <summary><b><u>Menu</u></b></summary>
+  <ul>
+    <li>About</li>
+    <li>History</li>
+    <li>Links</li>
+  </ul>
+</details><br>
+<br>
+<b>
+February
+</b>
+<br>
+<br>
+
+<b>What is the best car?
+</b>
+<br>
+ By this I mean historically, encompassing 140 years.
+<br>
+There are so many factors to take into account: <br>
+the family car, the power, the thrill, the sport.
+<br><br>
+
+The family car can be a 21st century SUV, or a 1940s "tin can", 
+or a Land Rover, or a 2 CV.
+<br>
+Powerwise, we are talking F1, or GP car. <br>
+Sportswise, Rallying or F1.
+<br>
+<br>
+I was talking to a neighbour who owns a 1940s Harley. We agreed 
+that car design stopped being interesting in 2000.
+<br>
+Let's not go into details.
+<br><br>
+Power-wise, what is more exciting? A post-2000 WRC car, 
+a pre-2007 F1, a pre-airfoil or post-airfoil GP car?
+<br>
+<br>
+WRC cars are interesting, but an 80s Rally has "de la gueule".
+<br>
+A pre-airfoil GP or a shrill 2005 F1 V8?
+<br>
+<br>
+
+Sportswise, a pre Health-and-Safety GP (Phewww! About time!), 
+an 80s Rally, a 90s F1 GP?
+<br>
+
+<br>
+Let's ponder.
+<br>
+<br>
+Take care.
+<br>
